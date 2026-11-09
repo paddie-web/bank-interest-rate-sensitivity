@@ -1,0 +1,17 @@
+# Raw and processed data (proprietary / licensed; not redistributed)
+data/
+data_processed/
+*.dta
+*.csv
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
+
+# macOS
+.DS_Store
